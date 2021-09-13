@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
 name: Anqi Zhao, Awesome Dev
 markdown: kramdown
 permalink: /cs5520project/:year/:month/:day/:title
+theme: jekyll-theme-cayman
