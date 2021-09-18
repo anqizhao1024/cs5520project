@@ -1,4 +1,5 @@
 ## Lesson 1_1
+### Screenshot:
 ### Homework
 #### Q1: What is the name of the layout file for the main activity?
 A1: activity_main.xml
@@ -10,8 +11,15 @@ A3: AVD Manager
 	Log.i("MainActivity", "MainActivity layout is complete");
 	You see the statement "MainActivity layout is complete" in the Logcat pane if the Log level menu is set to which of the following? 
 A4: Verbose, Debug
+### What I Learned：
+
+
+## Lesson 1_2A
+### Screenshot:
+### What I Learned：
 
 ## Lesson 1_2B
+### Screenshot:
 ### Homework
 #### Q1: Which two layout constraint attributes on the Zero Button position it vertically equal distance between the other two Button elements? 
 A1: app:layout_constraintBottom_toTopOf="@+id/button_count"
@@ -22,8 +30,10 @@ A2: app:layout_constraintLeft_toLeftOf="parent"
 A3: public void callMethod(View view)
 #### Q4: Which of the following techniques is more efficient to use within this handler to change the Button element's background color? 
 A4: Use findViewById to find the Count Button. Assign the result to a View variable, and then use setBackgroundColor().
+### What I Learned：
 
 ## Lesson 1_3
+### Screenshot:
 ### Homework
 #### Q1: How many views can you use within a ScrollView?
 A1: One view or one view group
@@ -31,3 +41,4 @@ A1: One view or one view group
 A2: android:orientation="horizontal"
 #### Q3: Which XML attribute do you use to define the width of the LinearLayout inside the scrolling view? 
 A3: android:layout_width="match_parent"
+### What I Learned：
