@@ -1,6 +1,6 @@
 ## Lesson 1_1
 ### Screenshot:
-<img src="https://raw.githubusercontent.com/anqizhao1024/cs5520project/gh-pages/_pics/lesson1_1_screenshot.png" alt="drawing" width="250"/>
+<img src="https://github.com/anqizhao1024/cs5520project/blob/gh-pages/_pics/lesson1_1_screenshot.PNG" alt="drawing" width="250"/>
 ### Homework:
 #### Q1: What is the name of the layout file for the main activity?
 A1: activity_main.xml
@@ -17,10 +17,13 @@ A4: Verbose, Debug
 
 ## Lesson 1_2A
 ### Screenshot:
+<img src="https://github.com/anqizhao1024/cs5520project/blob/gh-pages/_pics/lesson1_2A_screenshot.PNG" alt="drawing" width="250"/>
 ### What I Learned：
 
 ## Lesson 1_2B
 ### Screenshot:
+<img src="https://github.com/anqizhao1024/cs5520project/blob/gh-pages/_pics/Lesson1_2B_screenshot_01.PNG" alt="drawing" width="250"/>
+<img src="https://github.com/anqizhao1024/cs5520project/blob/gh-pages/_pics/Lesson1_2B_screenshot_03.PNG" alt="drawing" width="250"/>
 ### Homework:
 #### Q1: Which two layout constraint attributes on the Zero Button position it vertically equal distance between the other two Button elements? 
 A1: app:layout_constraintBottom_toTopOf="@+id/button_count"
@@ -35,6 +38,7 @@ A4: Use findViewById to find the Count Button. Assign the result to a View varia
 
 ## Lesson 1_3
 ### Screenshot:
+<img src="https://github.com/anqizhao1024/cs5520project/blob/gh-pages/_pics/Lesson1_3_screenshot.PNG" alt="drawing" width="250"/>
 ### Homework:
 #### Q1: How many views can you use within a ScrollView?
 A1: One view or one view group
