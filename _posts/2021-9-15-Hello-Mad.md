@@ -1,7 +1,7 @@
 ## Lesson 1_1
 
 ### Screenshot:
-<img src="https://github.com/anqizhao1024/cs5520project/blob/0a01b90900cbd9e7479d400a45975aa2c04510d5/_pics/lesson1_1_screenshot.PNG" alt="drawing" width="250"/>
+<img src="https://github.com/anqizhao1024/cs5520project/blob/gh-pages/_pics/lesson1_1_screenshot.png" alt="Oops" width="250"/>
 
 ### Homework:
  #### Q1: What is the name of the layout file for the main activity?
@@ -20,15 +20,15 @@
 ## Lesson 1_2A
 
 ### Screenshot:
-<img src="https://github.com/anqizhao1024/cs5520project/blob/gh-pages/_pics/lesson1_2A_screenshot.PNG" alt="drawing" width="250"/>
+<img src="https://github.com/anqizhao1024/cs5520project/blob/gh-pages/_pics/lesson1_2A_screenshot.PNG" alt="Oops" width="250"/>
 
 ### What I Learned：
 
 ## Lesson 1_2B
 
 ### Screenshot:
-<img src="https://github.com/anqizhao1024/cs5520project/blob/gh-pages/_pics/Lesson1_2B_screenshot_01.PNG" alt="drawing" width="250"/>
-<img src="https://github.com/anqizhao1024/cs5520project/blob/gh-pages/_pics/Lesson1_2B_screenshot_03.PNG" alt="drawing" width="250"/>
+<img src="https://github.com/anqizhao1024/cs5520project/blob/gh-pages/_pics/Lesson1_2B_screenshot_01.PNG" alt="Oops" width="250"/>
+<img src="https://github.com/anqizhao1024/cs5520project/blob/gh-pages/_pics/Lesson1_2B_screenshot_03.PNG" alt="Oops" width="250"/>
 
 ### Homework:
  #### Q1: Which two layout constraint attributes on the Zero Button position it vertically equal distance between the other two Button elements? 
@@ -46,7 +46,7 @@
 ## Lesson 1_3
 
 ### Screenshot:
-<img src="https://github.com/anqizhao1024/cs5520project/blob/gh-pages/_pics/Lesson1_3_screenshot.PNG" alt="drawing" width="250"/>
+<img src="https://github.com/anqizhao1024/cs5520project/blob/gh-pages/_pics/Lesson1_3_screenshot.PNG" alt="Oops" width="250"/>
 
 ### Homework:
  #### Q1: How many views can you use within a ScrollView?
