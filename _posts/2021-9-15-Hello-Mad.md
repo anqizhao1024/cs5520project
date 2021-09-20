@@ -1,7 +1,7 @@
 ## Lesson 1_1
 
 ### Screenshot:
-<img src="https://github.com/anqizhao1024/cs5520project/blob/gh-pages/_pics/lesson1_1_screenshot.png" alt="Oops" width="250"/>
+<img src="https://github.com/anqizhao1024/cs5520project/blob/gh-pages/_pics/lesson1_1_screenshot.PNG" alt="Oops" width="250"/>
 
 ### Homework:
  #### Q1: What is the name of the layout file for the main activity?
@@ -20,7 +20,7 @@
 ## Lesson 1_2A
 
 ### Screenshot:
-<img src="https://github.com/anqizhao1024/cs5520project/blob/0a01b90900cbd9e7479d400a45975aa2c04510d5/_pics/lesson1_1_screenshot.png" alt="Oops" width="250"/>
+<img src="https://github.com/anqizhao1024/cs5520project/blob/gh-pages/_pics/lesson1_2A_screenshot.PNG" alt="Oops" width="250"/>
 
 ### What I Learned：
 
