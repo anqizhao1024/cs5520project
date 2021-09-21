@@ -1,7 +1,7 @@
 # Lesson 1_1
 
 ## Screenshot:
-![Image of Lesson 1_1](../_pics/lesson1_1_screenshot.PNG)
+![Image of Lesson 1_.1](https://github.com/anqizhao1024/cs5520project/blob/gh-pages/_pics/lesson1_2A_screenshot.PNG)
 
 ## Homework:
 
