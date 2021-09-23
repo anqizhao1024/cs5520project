@@ -25,7 +25,7 @@ A4: Verbose, Debug
 # Lesson 1_2A
 
 ## Screenshot:
-<img src="https://github.com/anqizhao1024/cs5520project/blob/gh-pages/_pics/lesson1_2A_screenshot.PNG" alt="Oops" width="250"/>
+<img src="https://raw.githubusercontent.com/anqizhao1024/cs5520project/blob/gh-pages/_pics/lesson1_2A_screenshot.png" alt="Oops" width="250"/>
 
 ## What I Learned：
 
