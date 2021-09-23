@@ -1,7 +1,7 @@
 # Lesson 1_1
 
 ## Screenshot:
-<img src="https://github.com/anqizhao1024/cs5520project/blob/gh-pages/_pics/lesson1_1_screenshot.PNG" alt="Oops" width="250"/>
+<img src="https://app.box.com/s/muubp3x77hvrcdjgo4ct02m2wax4fvhl" alt="Oops" width="250"/>
 
 ## Homework:
 
