@@ -3,6 +3,8 @@
 ## Screenshot:
 <img src="https://app.box.com/s/muubp3x77hvrcdjgo4ct02m2wax4fvhl" alt="Oops" width="250"/>
 
+<img src="https://raw.githubusercontent.com/anqizhao1024/cs5520project/gh-pages/_pics/lesson1_1_screenshot.PNG" width="100"/>
+
 ## Homework:
 
 ### Q1: What is the name of the layout file for the main activity?
