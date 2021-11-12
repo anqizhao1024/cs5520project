@@ -21,6 +21,11 @@ A4: Verbose, Debug
 
 ## What I Learned：
 
+How to create a most basic Android app and how to use Android studio.
+
+Searched a little bit of what is Kotlin but decided to use Java in my own work.
+
+Learned how to insert pictures on pages and display as expected.
 
 # Lesson 1_2A
 
@@ -28,6 +33,10 @@ A4: Verbose, Debug
 <img src="https://raw.githubusercontent.com/anqizhao1024/cs5520project/gh-pages/_pics/lesson1_2A_screenshot.PNG" width="250"/>
 
 ## What I Learned：
+
+How to create a button and attach features on the button. 
+
+How to change attributes of a component.
 
 # Lesson 1_2B
 
@@ -53,6 +62,10 @@ A4: Use findViewById to find the Count Button. Assign the result to a View varia
  
 ## What I Learned：
 
+How to set the vertical and horizontal view of the app to be the same structure and won't mess up when change direction.
+
+How to change the view directly in the XML code.
+
 # Lesson 1_3
 
 ## Screenshot:
@@ -70,3 +83,5 @@ A2: android:orientation="horizontal"
 A3: android:layout_width="match_parent"
 
 ## What I Learned：
+
+How to add a scroll view and divide it to different sections allows different scroll contents.
