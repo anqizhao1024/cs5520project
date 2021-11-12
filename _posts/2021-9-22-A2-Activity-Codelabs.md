@@ -1,12 +1,22 @@
 ## Lesson 2_1
 
 ### Screenshot:
+<img src="https://raw.githubusercontent.com/anqizhao1024/cs5520project/gh-pages/_pics/lesson2_1_screenshot1.PNG" width="100"/>
+
+<img src="https://raw.githubusercontent.com/anqizhao1024/cs5520project/gh-pages/_pics/lesson2_1_screenshot2.PNG" width="100"/>
+
+<img src="https://raw.githubusercontent.com/anqizhao1024/cs5520project/gh-pages/_pics/lesson2_1_screenshot3.PNG" width="100"/>
+
 
 ### What I Learned：
 
 ## Lesson 2_2
 
 ### Screenshot:
+<img src="https://raw.githubusercontent.com/anqizhao1024/cs5520project/gh-pages/_pics/lesson2_2_screenshot1.PNG" width="100"/>
+
+<img src="https://raw.githubusercontent.com/anqizhao1024/cs5520project/gh-pages/_pics/lesson2_2_screenshot2.PNG" width="100"/>
+
 
 ### Homework:
 
@@ -31,5 +41,12 @@ A4: onDestroy()
 ## Lesson 2_3
 
 ### Screenshot:
+<img src="https://raw.githubusercontent.com/anqizhao1024/cs5520project/gh-pages/_pics/lesson2_3_screenshot1.PNG" width="100"/>
+
+<img src="https://raw.githubusercontent.com/anqizhao1024/cs5520project/gh-pages/_pics/lesson2_3_screenshot2.PNG" width="100"/>
+
+<img src="https://raw.githubusercontent.com/anqizhao1024/cs5520project/gh-pages/_pics/lesson2_3_screenshot3.PNG" width="100"/>
+
+<img src="https://raw.githubusercontent.com/anqizhao1024/cs5520project/gh-pages/_pics/lesson2_3_screenshot4.PNG" width="100"/>
 
 ### What I Learned：
