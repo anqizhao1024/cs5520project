@@ -1,7 +1,7 @@
 # Lesson 1_1
 
 ## Screenshot:
-<img src="https://raw.githubusercontent.com/anqizhao1024/cs5520project/gh-pages/_pics/lesson1_1_screenshot.PNG" width="100"/>
+<img src="https://raw.githubusercontent.com/anqizhao1024/cs5520project/gh-pages/_pics/lesson1_1_screenshot.PNG" width="250"/>
 
 ## Homework:
 
@@ -25,16 +25,16 @@ A4: Verbose, Debug
 # Lesson 1_2A
 
 ## Screenshot:
-<img src="https://raw.githubusercontent.com/anqizhao1024/cs5520project/gh-pages/_pics/lesson1_2A_screenshot.PNG" width="100"/>
+<img src="https://raw.githubusercontent.com/anqizhao1024/cs5520project/gh-pages/_pics/lesson1_2A_screenshot.PNG" width="250"/>
 
 ## What I Learned：
 
 # Lesson 1_2B
 
 ## Screenshot:
-<img src="https://raw.githubusercontent.com/anqizhao1024/cs5520project/gh-pages/_pics/Lesson1_2B_screenshot_01.PNG" width="100"/>
+<img src="https://raw.githubusercontent.com/anqizhao1024/cs5520project/gh-pages/_pics/Lesson1_2B_screenshot_01.PNG" width="250"/>
 
-<img src="https://raw.githubusercontent.com/anqizhao1024/cs5520project/gh-pages/_pics/Lesson1_2B_screenshot_03.PNG" width="250"/>
+<img src="https://raw.githubusercontent.com/anqizhao1024/cs5520project/gh-pages/_pics/Lesson1_2B_screenshot_03.PNG" width="400"/>
 
 ## Homework:
 
@@ -56,7 +56,7 @@ A4: Use findViewById to find the Count Button. Assign the result to a View varia
 # Lesson 1_3
 
 ## Screenshot:
-<img src="https://raw.githubusercontent.com/anqizhao1024/cs5520project/gh-pages/_pics/Lesson1_3_screenshot.PNG" width="100"/>
+<img src="https://raw.githubusercontent.com/anqizhao1024/cs5520project/gh-pages/_pics/Lesson1_3_screenshot.PNG" width="250"/>
 
 ## Homework:
 
