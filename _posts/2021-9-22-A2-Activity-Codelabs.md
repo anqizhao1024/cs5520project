@@ -15,7 +15,7 @@
 ### Screenshot:
 <img src="https://raw.githubusercontent.com/anqizhao1024/cs5520project/gh-pages/_pics/lesson2_2_screenshot1.PNG" width="100"/>
 
-<img src="https://raw.githubusercontent.com/anqizhao1024/cs5520project/gh-pages/_pics/lesson2_2_screenshot2.PNG" width="100"/>
+<img src="https://raw.githubusercontent.com/anqizhao1024/cs5520project/gh-pages/_pics/lesson2_2_screenshot2.PNG" width="250"/>
 
 
 ### Homework:
