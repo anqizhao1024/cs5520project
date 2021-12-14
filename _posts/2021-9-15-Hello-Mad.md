@@ -1,5 +1,8 @@
 # Lesson 1_1
 
+### Github Link:
+[Lesson 1_1](https://github.com/anqizhao1024/cs5520project/tree/main/lesson%201_1)
+
 ## Screenshot:
 <img src="https://raw.githubusercontent.com/anqizhao1024/cs5520project/gh-pages/_pics/lesson1_1_screenshot.PNG" width="250"/>
 
