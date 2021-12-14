@@ -8,7 +8,10 @@
 
 
 ### What I Did：
+I've added a database to persist the data, and debug towns of issues when I first try to use a ViewModel to jump back and forth between two activities. I've also fixed display issues about components I initially used.
+
+Finally, I gave up on fighting with Google Play Store and decided to include my APKs in my GitHub folder for each release.
 
 
 ### What I Learned：
-
+It was such a pain in the ass when debugging with Android apps, and it will be wise to do yourself a favor -- use components as simple as possible.
