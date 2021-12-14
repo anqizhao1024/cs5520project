@@ -1,5 +1,8 @@
 ## Lesson 2_1
 
+### Github Link:
+[Lesson 2_1](https://github.com/anqizhao1024/cs5520project/tree/main/lesson%202_1)
+
 ### Screenshot:
 <img src="https://raw.githubusercontent.com/anqizhao1024/cs5520project/gh-pages/_pics/lesson2_1_screenshot1.PNG" width="250"/>
 <img src="https://raw.githubusercontent.com/anqizhao1024/cs5520project/gh-pages/_pics/lesson2_1_screenshot2.PNG" width="250"/>
@@ -13,6 +16,9 @@ How to use intent to start another activity from the current one.
 How to use bundles to pass information between activities.
 
 ## Lesson 2_2
+
+### Github Link:
+[Lesson 2_2](https://github.com/anqizhao1024/cs5520project/tree/main/lesson%202_2)
 
 ### Screenshot:
 <img src="https://raw.githubusercontent.com/anqizhao1024/cs5520project/gh-pages/_pics/lesson2_2_screenshot1.PNG" width="250"/>
@@ -44,6 +50,9 @@ How to save data by using onSaveInstanceState in bundles.
 How do different lifecycles work in activities.
 
 ## Lesson 2_3
+
+### Github Link:
+[Lesson 2_3](https://github.com/anqizhao1024/cs5520project/tree/main/lesson%202_3)
 
 ### Screenshot:
 <img src="https://raw.githubusercontent.com/anqizhao1024/cs5520project/gh-pages/_pics/lesson2_3_screenshot1.PNG" width="250"/>
