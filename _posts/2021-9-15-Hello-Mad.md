@@ -32,6 +32,9 @@ Learned how to insert pictures on pages and display as expected.
 
 # Lesson 1_2A
 
+### Github Link:
+[Lesson 1_2A](https://github.com/anqizhao1024/cs5520project/tree/main/lesson%201_2A)
+
 ## Screenshot:
 <img src="https://raw.githubusercontent.com/anqizhao1024/cs5520project/gh-pages/_pics/lesson1_2A_screenshot.PNG" width="250"/>
 
@@ -42,6 +45,9 @@ How to create a button and attach features on the button.
 How to change attributes of a component.
 
 # Lesson 1_2B
+
+### Github Link:
+[Lesson 1_2B](https://github.com/anqizhao1024/cs5520project/tree/main/lesson%201_2B)
 
 ## Screenshot:
 <img src="https://raw.githubusercontent.com/anqizhao1024/cs5520project/gh-pages/_pics/Lesson1_2B_screenshot_01.PNG" width="250"/>
@@ -70,6 +76,9 @@ How to set the vertical and horizontal view of the app to be the same structure 
 How to change the view directly in the XML code.
 
 # Lesson 1_3
+
+### Github Link:
+[Lesson 1_3](https://github.com/anqizhao1024/cs5520project/tree/main/lesson%201_3)
 
 ## Screenshot:
 <img src="https://raw.githubusercontent.com/anqizhao1024/cs5520project/gh-pages/_pics/Lesson1_3_screenshot.PNG" width="250"/>
