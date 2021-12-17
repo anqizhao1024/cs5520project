@@ -110,9 +110,10 @@
                 android:layout_height="50dp"
                 android:layout_marginLeft="20dp"
                 android:layout_marginTop="10dp"
-                android:digits="0123456789"
                 android:layout_marginRight="20dp"
-                android:hint="day/time to remind " />
+                android:digits="0123456789"
+                android:hint="day/time to remind "
+                android:visibility="gone" />
 
             <LinearLayout
                 android:layout_width="match_parent"

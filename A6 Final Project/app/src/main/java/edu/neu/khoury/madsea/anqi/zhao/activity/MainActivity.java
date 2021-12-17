@@ -81,6 +81,10 @@ public class MainActivity extends AppCompatActivity {
                 if (position > 0) {
                     selectTag = Contant.selectTag[position];
                 }
+
+                if (position == 0) {
+                    selectTag = "";
+                }
             }
 
             @Override
